@@ -24,6 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeavid&theme=radical" alt="codeavid" /></p>
 
+[![Benjamin's github activity graph](https://activity-graph.herokuapp.com/graph?username=codeavid&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **CodeAvid/CodeAvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
