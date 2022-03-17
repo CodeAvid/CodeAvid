@@ -19,15 +19,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<!--- Github Top Langs--->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeavid&show_icons=true&locale=en&amp;langs_count=8&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;" width="500"   align="center"  alt="codeavid">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeavid&show_icons=true&locale=en&layout=compact;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0 " alt="codeavid"  width="700" style="max-width: 100%;"/></p>
+<!--- Github Stats--->
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeavid&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;" align="center" width="700"   alt="codeavid"/></p>
 
+<!--- Github Streak--->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeavid&show_icons=true&locale=en;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0"  width="700" style="max-width: 100%;" alt="codeavid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeavid&theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;"  width="700"  align="center" alt="codeavid"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeavid;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;" alt="codeavid" /></p>
-
+<!--- Github Activity Graph--->
 [![Benjamin's github activity graph](https://activity-graph.herokuapp.com/graph?username=codeavid&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
