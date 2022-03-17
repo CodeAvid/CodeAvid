@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hello there 👋, This is Benjamin</h1>
+
 <h3 align="center">I'm a passionate Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeavid&label=Profile%20views&color=0e75b6&style=flat" alt="codeavid" /> </p>
@@ -20,13 +21,12 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeavid&show_icons=true&locale=en&layout=compact&theme=radical " alt="codeavid"  width="700" style="max-width: 100%;"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeavid&show_icons=true&locale=en&layout=compact&theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0 " alt="codeavid"  width="700" style="max-width: 100%;"/></p>
 
-<div heigth="20"></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeavid&show_icons=true&locale=en&theme=radical"  width="700" style="max-width: 100%;" alt="codeavid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeavid&show_icons=true&locale=en&theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0"  width="700" style="max-width: 100%;" alt="codeavid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeavid&theme=radical" alt="codeavid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeavid&theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;" alt="codeavid" /></p>
 
 [![Benjamin's github activity graph](https://activity-graph.herokuapp.com/graph?username=codeavid&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
