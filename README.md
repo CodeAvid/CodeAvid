@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeavid&show_icons=true&locale=en&layout=compact&theme=radical " alt="codeavid"  width="700" style="max-width: 100%;"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeavid&show_icons=true&locale=en&theme=radical" alt="codeavid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeavid&show_icons=true&locale=en&theme=radical"  width="700" style="max-width: 100%;" alt="codeavid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeavid&theme=radical" alt="codeavid" /></p>
 
