@@ -21,7 +21,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeavid&show_icons=true&locale=en&layout=compact&theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0 " alt="codeavid"  width="700" style="max-width: 100%;"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeavid&show_icons=true&locale=en&layout=compact;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0 " alt="codeavid"  width="700" style="max-width: 100%;"/></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeavid&show_icons=true&locale=en&theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0"  width="700" style="max-width: 100%;" alt="codeavid" /></p>
