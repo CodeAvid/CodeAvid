@@ -24,9 +24,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeavid&show_icons=true&locale=en&layout=compact;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0 " alt="codeavid"  width="700" style="max-width: 100%;"/></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeavid&show_icons=true&locale=en&theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0"  width="700" style="max-width: 100%;" alt="codeavid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeavid&show_icons=true&locale=en;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0"  width="700" style="max-width: 100%;" alt="codeavid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeavid&theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;" alt="codeavid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeavid;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;" alt="codeavid" /></p>
 
 [![Benjamin's github activity graph](https://activity-graph.herokuapp.com/graph?username=codeavid&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
