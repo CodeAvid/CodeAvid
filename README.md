@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello there 👋, This is Anizor Joshua Etieno</h1>
+<h1 align="center">Hello there 👋, This is Benjamin Akhigbe</h1>
 
 <h3 align="center">I'm a passionate Mobile Developer</h3>
 
